@@ -264,6 +264,6 @@ Perfect for Data Analyst, SQL Analyst, BI Analyst, and Data Science portfolios.
 **Zaman**  
 **Aspiring Data Analyst**  
 **BS Data Science – University of Central Punjab (UCP), Lahore**  
-📧 **Email:** yourname@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/your-profile
+📧 **Email:** zamanyaseen.71@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/zaman-yaseen-85057b36b)
 
