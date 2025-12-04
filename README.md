@@ -1,4 +1,4 @@
-📚 Bookstore Sales Analytics — SQL + Excel Dashboard
+**📚 Bookstore Sales Analytics — SQL + Excel Dashboard**
 
 This project is an end-to-end data analytics case study, combining:
 
@@ -11,7 +11,7 @@ Excel for dashboard visualization
 A perfect project for Data Analyst / BI Analyst portfolios, demonstrating real-world business analysis skills.
 
 
-🗂️ Project Structure
+**🗂️ Project Structure**
 
 online-bookstore-sql-project/
 │
@@ -40,7 +40,7 @@ online-bookstore-sql-project/
 └── LICENSE
 
 
-🛠️ Tools Used
+**🛠️ Tools Used**
 
 Tool	Purpose
 PostgreSQL	SQL queries, joins, aggregations
@@ -49,7 +49,7 @@ Excel	Analytical dashboard
 CSV Files	Raw dataset
 
 
-🧱 Database Schema
+**🧱 Database Schema**
 
 Books Table
 
@@ -64,12 +64,12 @@ Orders Table
 Order_ID · Customer_ID(FK) · Book_ID(FK) · Order_Date · Quantity · Total_Amount
 
 
-📌 See the ERD:
+**📌 See the ERD:**
 
 /screenshots/01_ERD.PNG
 
 
-📊 Sample Raw Data
+**📊 Sample Raw Data**
 
 📌 /screenshots/02_Books_sample.png
 📌 /screenshots/02_Customers_sample.png
@@ -78,7 +78,7 @@ Order_ID · Customer_ID(FK) · Book_ID(FK) · Order_Date · Quantity · Total_Am
 Dataset includes 100+ synthetic records for realistic business analysis.
 
 
-📝 Key SQL Queries (Used for Dashboard Insights)
+**📝 Key SQL Queries (Used for Dashboard Insights)**
 
 These 4 business-driven queries power the Excel dashboard.
 
@@ -141,7 +141,8 @@ The Excel dashboard includes:
 ✔ Top Selling Books (Horizontal Bar Chart)
 ✔ Top Customers (Vertical Bar Chart)
 
-📌 Dashboard Screenshot Highlights:
+
+**📌 Dashboard Screenshot Highlights:**
 
 /screenshots/04_dashboard_full_view.png
 
@@ -164,7 +165,7 @@ Unused rows/columns hidden (but dashboard remains fully editable)
 Data linked via cell references (no VBA used)
 
 
-🔍 Key Insights Generated
+**🔍 Key Insights Generated**
 
 📌 Sales Insights
 
@@ -191,7 +192,7 @@ Low-stock products identified
 Authors contributing most to sales
 
 
-🏁 Conclusion
+**🏁 Conclusion**
 
 This project demonstrates:
 
@@ -204,7 +205,7 @@ This project demonstrates:
 A strong project for Data Analyst, BI Analyst, SQL Analyst portfolios.
 
 
-📄 License
+**📄 License**
 
 This project uses the MIT License, allowing anyone to:
 
@@ -217,7 +218,7 @@ See full text:
 /LICENSE
 
 
-👤 Author
+**👤 Author**
 
 Zaman
 BS Data Science Student — UCP Lahore
