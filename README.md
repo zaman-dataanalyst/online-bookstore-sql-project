@@ -190,5 +190,5 @@ Full license text:
 **Zaman**  
 **Aspiring Data Analyst**  
 **BS Data Science – University of Central Punjab (UCP), Lahore**  
-📧 **Email:** yourname@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/your-profile  
+📧 **Email:** zamanyaseen.71@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/hafiz-zaman-yaseen-85057b36b  
